@@ -1,7 +1,12 @@
-﻿
+
 Assignment Test for Santander Senior Backend Developer Application.
 
 This application was developed without any dependencies other than Newtonsoft.JSON
+
+if needed run in NUGET console the following command:
+
+ install-package Newtonsoft.JSON
+
 
 in order to run it, just deploy to IIS or start a debug session on local IIS Express or similar 
 
@@ -27,6 +32,7 @@ Also I would probably add a parameter to the "GetTopTwenty" method in order to p
 filter by score.
 
 
+Also for more complex models I would have developed them with Interfaces and not directly on the model class as it is now
 
 
 
