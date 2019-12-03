@@ -1,4 +1,5 @@
 # SantanderDEV
+
 Assignment Test for Santander Senior Backend Developer Application.
 
 This application was developed without any dependencies other than Newtonsoft.JSON
@@ -30,6 +31,9 @@ implement any.
 Also I would probably add a parameter to the "GetTopTwenty" method in order to provide what field to filter so it wouldn't only
 
 filter by score.
+
+
+Also for more complex models I would have developed them with Interfaces and not directly on the model class as it is now
 
 
 
