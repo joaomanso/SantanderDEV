@@ -1,4 +1,4 @@
-
+﻿
 Assignment Test for Santander Senior Backend Developer Application.
 
 This application was developed without any dependencies other than Newtonsoft.JSON
